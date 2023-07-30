@@ -1,3 +1,3 @@
 # C
  
- C programlama dilini öğrenirken yazdığım kodlar
+codes I wrote while learning C programming language
